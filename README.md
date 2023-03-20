@@ -12,7 +12,6 @@ Using Data Science with Machine Learning to detect the genre of a music using si
 * [Sources](#sources)
 
 ## Introduction
-This project is a part of my training at SHAI FOR AI.\
 During the stages of learning artificial intelligence, there is an important stage called classification, which indicates an important stage in distinguishing the output in a way that is close to human understanding and perception, especially when applied during practical stages that help people in their work. This is an introduction to the importance of the idea of multiple classification presented in the following project.\
 Based on this introduction, I present to you my project in solving the problem of Music Genre Classification, and my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning.\
 Hoping to improve it gradually in the coming times.
